@@ -1,1 +1,1 @@
-# AbaloneShell
+# Abalone Shell Neural Network
